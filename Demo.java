@@ -6,3 +6,4 @@ console.log("cucumber app");
 console.log("TestNg app");
 console.log("COD APP");
 console.log("app");
+console.log("new");
